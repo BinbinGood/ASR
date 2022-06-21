@@ -1,0 +1,4 @@
+# .gitignore
+models/
+log/
+dataset/
